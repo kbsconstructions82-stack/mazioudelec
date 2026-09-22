@@ -1,0 +1,6 @@
+{
+  "name": "MAZIOUD ELEC",
+  "description": "Entreprise d'électricité générale à Nègrepelisse (82800) et dans un rayon de 40 km (Montauban, Tarn-et-Garonne) : installation, rénovation, dépannage et domotique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
